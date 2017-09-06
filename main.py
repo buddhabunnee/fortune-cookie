@@ -21,7 +21,7 @@ def getRandomFortune():
 	fortunes = [
 		"I see much code in your future",
 		"Consider eating more fortune cookies",
-		"You have tamed the might Python, now you must free it onto the Great Spider's Web!"
+		"You have tamed the mighty Python, now you must free it onto the Great Spider's Web!"
 		
 	]
 	
